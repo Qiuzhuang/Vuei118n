@@ -1,0 +1,13 @@
+{
+  "name": "vue-i18n-example",
+  "version": "1.0.0",
+  "description": "Simple language switcher with i18n",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vuex-i18n": "1.8.0",
+    "vuex": "3.0.1",
+    "vue-router": "3.0.1",
+    "vue": "2.5.2"
+  }
+}
